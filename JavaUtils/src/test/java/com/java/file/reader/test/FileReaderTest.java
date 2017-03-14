@@ -1,5 +1,6 @@
-package com.java.file.reader;
+package com.java.file.reader.test;
 
+import com.java.file.reader.FileReader;
 import org.springframework.beans.factory.annotation.Autowired;
 
 /**
